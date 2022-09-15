@@ -10,6 +10,7 @@
         <label>nombre de usuario</label>
         <br/>
         <input type="text" name="nombre de usuario" />
+        <br/>
     <label>contraseña</label>
     <br/>
     <input type="password" name="contraseña" />
